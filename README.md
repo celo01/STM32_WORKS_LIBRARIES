@@ -1,7 +1,7 @@
 # STM32_WORKS_LIBRARIES
 EN | Works and libraries made with STM32
     
-     The projects, studies and libraries created here can be used by everyone. If there is anything you do not understand
+     The projects, works and libraries created here can be used by everyone. If there is anything you do not understand
      in the shares, you can contact me.
      
 
