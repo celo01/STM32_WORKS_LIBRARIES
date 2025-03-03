@@ -1,5 +1,15 @@
 EN|
 This file contains the codes and documents to operate the TF02 PRO Lidar sensor in C programming language.
+.c and .h you can include files with extension in your own projects. 
+You can control the distance with g_TF02ProDistance.
+You can control the signal strength with g_TF02ProStrength.
+You can benefit from technical information with User_Manuel and Datasheet files.
+With the Lidar Sensor Example file, you can work on a sample stm32 development board
 
 TR|
 Bu dosya TF02 PRO Lidar sensörünü C programlama dilinde çalıştıracak kodları ve dökümanları içermektedir. 
+.c ve .h uzantılı dosyaları kendi projelerinize dahil edebilirsiniz. 
+g_TF02ProDistance ile mesafeyi kontrol edebilirsiniz.
+g_TF02ProStrength ile sinyal gücünü kontrol edebilirsiniz.
+User_Manuel ve Datasheet dosyaları ile teknik bilgilerden yararlanabilirsiniz.
+Lidar Sensor Example dosyası ile örnek bir stm32 kartında çalışabilirsiniz
